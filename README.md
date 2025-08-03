@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Specializing in Flutter development. I transform ideas into high-quality mobile applications. Always ready for new professional challenges and excited to explore interesting collaboration opportunities.
+Specializing in Flutter development. I transform ideas into high-quality mobile applications. Always ready for new professional challenges and excited to explore interesting collaboration opportunities. 
 
 
 ## 🌐 Socials:
